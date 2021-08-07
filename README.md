@@ -20,4 +20,3 @@ To Do List Web App built using JavaScript, Node.js, Express, MongoDB, Mongoose
 - MongoDb 
 - Deploying using Heroku CLI
 
-Hosted @ https://radiant-headland-87706.herokuapp.com/
